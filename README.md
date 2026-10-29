@@ -7,6 +7,9 @@ Artificial Intelligence is a technology that enables machines to perform tasks t
 Self-driving cars, also known as autonomous vehicles, use AI, sensors, cameras, and advanced computing systems to move along roads and respond to traffic conditions. These vehicles can detect pedestrians, recognise traffic signals, identify road markings, and select suitable driving actions.
 
 Examples of companies developing autonomous driving technology include Tesla, Waymo, and Mercedes-Benz. Their systems differ in their levels of automation and capabilities.
+<img width="1042" height="552" alt="image" src="https://github.com/user-attachments/assets/3304b344-4d04-4d2b-839a-434e289e3c6c" />
+
+
 # WORKING PRINCIPLE
 <img width="1468" height="818" alt="image" src="https://github.com/user-attachments/assets/e209224f-03fa-4fc4-8b2f-3f7d88b04598" />
 Self-driving cars operate through the following steps:
